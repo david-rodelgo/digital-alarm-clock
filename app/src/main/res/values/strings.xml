@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reloj Despertador</string>
+    <string name="alarm_dismiss">Descartar</string>
+    <string name="alarm_snooze">Posponer (10m)</string>
+    <string name="alarm_ringing">¡Alarma!</string>
+    <string name="next_alarm">Próxima alarma</string>
+    <string name="no_alarm">Sin alarmas activas</string>
+    <string name="settings">Ajustes</string>
+    <string name="add_alarm">Añadir alarma</string>
+    <string name="edit_alarm">Editar alarma</string>
+    <string name="weather_loading">Cargando tiempo…</string>
+    <string name="weather_error">Sin conexión</string>
+</resources>

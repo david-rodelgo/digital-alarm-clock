@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clock Bell Left -->
+    <path
+        android:fillColor="#00FF66"
+        android:pathData="M34,26 C31,21 24,23 23,28 C22,33 27,37 31,35 Z" />
+    <!-- Clock Bell Right -->
+    <path
+        android:fillColor="#00FF66"
+        android:pathData="M74,26 C77,21 84,23 85,28 C86,33 81,37 77,35 Z" />
+    <!-- Clock Body -->
+    <path
+        android:strokeColor="#00FF66"
+        android:strokeWidth="4"
+        android:fillColor="#1A1A1A"
+        android:pathData="M54,32 A28,28 0 1,1 53.9,32 Z" />
+    <!-- Digital Display Screen -->
+    <path
+        android:fillColor="#0A0A0A"
+        android:pathData="M36,50 h36 v20 h-36 Z" />
+    <!-- Digital Time: 07:30 Representation -->
+    <path
+        android:fillColor="#00FF66"
+        android:pathData="M43,55 h6 v2 h-6 Z M43,59 h6 v2 h-6 Z M43,63 h6 v2 h-6 Z M43,57 v3 h2 v-3 Z M47,57 v3 h2 v-3 Z M47,61 v3 h2 v-3 Z" />
+    <path
+        android:fillColor="#00FF66"
+        android:pathData="M53,57 h2 v2 h-2 Z M53,62 h2 v2 h-2 Z" />
+    <path
+        android:fillColor="#00FF66"
+        android:pathData="M59,55 h6 v2 h-6 Z M59,59 h6 v2 h-6 Z M59,63 h6 v2 h-6 Z M63,55 v10 h2 v-10 Z" />
+    <!-- Clock Legs -->
+    <path
+        android:strokeColor="#00FF66"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M33,83 L26,93 M75,83 L82,93" />
+</vector>

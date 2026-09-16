@@ -1,0 +1,8 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="clock_green">#FF00FF66</color>
+    <color name="clock_red">#FFFF3333</color>
+    <color name="clock_cyan">#FF00E5FF</color>
+    <color name="clock_amber">#FFFFB300</color>
+</resources>
