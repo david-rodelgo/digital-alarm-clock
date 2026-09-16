@@ -133,7 +133,7 @@ class AlarmRepository(context: Context) {
             latitude = prefs.getString(KEY_LAT, "40.4168")?.toDoubleOrNull() ?: 40.4168,
             longitude = prefs.getString(KEY_LON, "-3.7038")?.toDoubleOrNull() ?: -3.7038,
             cityName = prefs.getString(KEY_CITY, "Madrid") ?: "Madrid",
-            updateCheckUrl = prefs.getString(KEY_UPDATE_URL, "") ?: "",
+            updateCheckUrl = prefs.getString(KEY_UPDATE_URL, "david-rodelgo/digital-alarm-clock") ?: "david-rodelgo/digital-alarm-clock",
             autoCheckUpdates = prefs.getBoolean(KEY_AUTO_UPDATE, true)
         )
     }

@@ -79,7 +79,7 @@ data class ClockPreferences(
     val latitude: Double = 40.4168,
     val longitude: Double = -3.7038,
     val cityName: String = "Madrid",
-    val updateCheckUrl: String = "",
+    val updateCheckUrl: String = "david-rodelgo/digital-alarm-clock",
     val autoCheckUpdates: Boolean = true
 ) {
     val showSeconds: Boolean
